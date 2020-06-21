@@ -32,14 +32,14 @@
     background-color: white;
     position: relative;
 }
-.container-fluid{
+.container-fluid {
     margin-left: 0px;
     margin-right: 0px;
     width: 200vw;
-    height: calc(100vh - 3rem);
+    min-height: calc(100vh - 3rem);
     padding-left: 0px;
     padding-right: 0px;
-    transition: .5s;
+    transition: 0.5s;
 }
 
 .row{
