@@ -55,3 +55,7 @@ button.btn.btn-info.my-qr.back {
     display: flex;
     justify-content: center;
 }
+div#root {
+    width: 100vw;
+    overflow: hidden;
+}
